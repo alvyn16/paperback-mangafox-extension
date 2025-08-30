@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "id": "MangaFox",
+      "name": "MangaFox",
+      "author": "TachiyomiExtensionAdapter",
+      "desc": "Extension for MangaFox adapted from Tachiyomi",
+      "website": "https://fanfox.net",
+      "version": "1.0.0",
+      "icon": "icon.png",
+      "tags": [
+        {
+          "text": "Cloudflare",
+          "type": "danger"
+        }
+      ]
+    }
+  ]
+}
+

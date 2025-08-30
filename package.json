@@ -1,0 +1,28 @@
+{
+  "name": "mangafox-paperback-extension",
+  "version": "1.0.0",
+  "description": "MangaFox extension for Paperback adapted from Tachiyomi",
+  "main": "MangaFoxPaperback.js",
+  "scripts": {
+    "build": "webpack --mode=production",
+    "dev": "webpack --mode=development --watch"
+  },
+  "keywords": [
+    "paperback",
+    "manga",
+    "extension",
+    "mangafox"
+  ],
+  "author": "TachiyomiExtensionAdapter",
+  "license": "MIT",
+  "dependencies": {
+    "@paperback/types": "^6.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0",
+    "ts-loader": "^9.0.0",
+    "typescript": "^4.0.0"
+  }
+}
+
