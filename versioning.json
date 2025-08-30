@@ -7,6 +7,7 @@
       "desc": "Extension for MangaFox adapted from Tachiyomi",
       "website": "https://fanfox.net",
       "version": "1.0.0",
+      "buildTime": 0,
       "icon": "icon.png",
       "tags": [
         {
@@ -17,4 +18,3 @@
     }
   ]
 }
-
